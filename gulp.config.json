@@ -1,0 +1,13 @@
+{
+	"app": [
+		"./src/app"
+	],
+	"js": [
+		"./src/app/teste/js/*.js",
+		"./src/app/utils/js/*.js"
+	],
+	"css": [
+		"./src/**/css/*.css"
+	],
+	"build": "./build"
+}
