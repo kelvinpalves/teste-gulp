@@ -4,7 +4,6 @@ var gulp = require('gulp');
 var jshint = require('gulp-jshint');
 var minifyCss = require('gulp-minify-css');
 var paths = require('./gulp.config.json');
-var rename = require('gulp-rename');
 var uglify = require('gulp-uglify');
 
 gulp.task('analisar', analisar);

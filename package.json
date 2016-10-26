@@ -1,15 +1,15 @@
 {
-  "name": "AngularJS-Modular-Demo",
+  "name": "Teste Gulp",
   "version": "0.0.1",
-  "description": "AngularJS Modular Demo",
+  "description": "Teste Gulp",
   "authors": [
-    "John Papa"
+    "Kelvin Pereira Alves"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/johnpapa/ng-demos",
+  "homepage": "https://github.com/kelvinpalves/teste-gulp",
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnpapa/ng-demos.git"
+    "url": "https://github.com/kelvinpalves/teste-gulp.git"
   },
   "devDependencies": {
     "del": "^0.1.3",
